@@ -1,1 +1,8 @@
 Sample text file is created to achive "Pull" the file from remote repository.
+
+Just Testing Pull 
+A pull brings latest changes from remote to your local machine.
+Download updates made by others.
+we can also use this commad to pull-- both are corect.
+1. git pull origin main
+2. git pull https://github.com/swaru-143/OpenCart.git
