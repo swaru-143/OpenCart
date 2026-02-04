@@ -1,0 +1,73 @@
+17:17:03.950 [main] TRACE org.testng.log4testng.Logger.trace(Logger.java:52)oggger - [Graph] ================ SORTING
+17:17:04.001 [main] TRACE org.testng.log4testng.Logger.trace(Logger.java:52)oggger - [Graph] =============== DONE SORTING
+17:17:04.002 [main] TRACE org.testng.log4testng.Logger.trace(Logger.java:52)oggger - [Graph] ====== SORTED NODES
+17:17:04.004 [main] TRACE org.testng.log4testng.Logger.trace(Logger.java:52)oggger - [Graph] ====== END SORTED NODES
+17:17:04.018 [main] TRACE org.testng.log4testng.Logger.trace(Logger.java:52)oggger - [Graph] ADDING NODE TC_001_AccountRegistrationTest.Verify_account_registration()[pri:0, instance:testCases.TC_001_AccountRegistrationTest@62010f5c] 2110590039
+17:17:04.020 [main] TRACE org.testng.log4testng.Logger.trace(Logger.java:52)oggger - [Graph] ADDING NODE TC_002_LoginTest.Verify_login()[pri:0, instance:testCases.TC_002_LoginTest@5c44c582] -1939069397
+17:17:04.021 [main] TRACE org.testng.log4testng.Logger.trace(Logger.java:52)oggger - [Graph] ================ SORTING
+17:17:04.028 [main] TRACE org.testng.log4testng.Logger.trace(Logger.java:52)oggger - [Graph] =============== DONE SORTING
+17:17:04.028 [main] TRACE org.testng.log4testng.Logger.trace(Logger.java:52)oggger - [Graph] ====== SORTED NODES
+17:17:04.029 [main] TRACE org.testng.log4testng.Logger.trace(Logger.java:52)oggger - [Graph] ====== END SORTED NODES
+17:17:04.054 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  D:\Workspace\Learning\OpenCart\grouping.xml
+
+17:17:09.821 [main] INFO  testCases.TC_001_AccountRegistrationTest.Verify_account_registration(TC_001_AccountRegistrationTest.java:19)oggger - ***** Starting TC_001_AccountRegistrationTest *****
+17:17:10.106 [main] INFO  testCases.TC_001_AccountRegistrationTest.Verify_account_registration(TC_001_AccountRegistrationTest.java:26)oggger - Clicked on MyAccount Link...
+17:17:10.837 [main] INFO  testCases.TC_001_AccountRegistrationTest.Verify_account_registration(TC_001_AccountRegistrationTest.java:28)oggger - Clicked on Register Link...
+17:17:10.844 [main] INFO  testCases.TC_001_AccountRegistrationTest.Verify_account_registration(TC_001_AccountRegistrationTest.java:33)oggger - Providing Customer details...
+17:17:13.855 [main] INFO  testCases.TC_001_AccountRegistrationTest.Verify_account_registration(TC_001_AccountRegistrationTest.java:50)oggger - Validating Expected Message...
+17:17:13.921 [main] ERROR testCases.TC_001_AccountRegistrationTest.Verify_account_registration(TC_001_AccountRegistrationTest.java:59)oggger - Test Failed...
+17:17:13.921 [main] DEBUG testCases.TC_001_AccountRegistrationTest.Verify_account_registration(TC_001_AccountRegistrationTest.java:60)oggger - Debug logs...
+17:17:18.493 [main] INFO  testCases.TC_002_LoginTest.Verify_login(TC_002_LoginTest.java:17)oggger - ***** Starting TC_002_LoginTest *****
+17:17:21.369 [main] INFO  testCases.TC_002_LoginTest.Verify_login(TC_002_LoginTest.java:49)oggger - ***** Finished TC_002_LoginTest *****
+17:17:23.257 [main] TRACE org.testng.log4testng.Logger.trace(Logger.java:52)oggger - [Graph] ADDING NODE TC_001_AccountRegistrationTest.Verify_account_registration()[pri:0, instance:testCases.TC_001_AccountRegistrationTest@62010f5c] 2110590039
+17:17:23.257 [main] TRACE org.testng.log4testng.Logger.trace(Logger.java:52)oggger - [Graph] ADDING NODE TC_002_LoginTest.Verify_login()[pri:0, instance:testCases.TC_002_LoginTest@5c44c582] -1939069397
+17:17:23.257 [main] TRACE org.testng.log4testng.Logger.trace(Logger.java:52)oggger - [Graph] ================ SORTING
+17:17:23.259 [main] TRACE org.testng.log4testng.Logger.trace(Logger.java:52)oggger - [Graph] =============== DONE SORTING
+17:17:23.260 [main] TRACE org.testng.log4testng.Logger.trace(Logger.java:52)oggger - [Graph] ====== SORTED NODES
+17:17:23.261 [main] TRACE org.testng.log4testng.Logger.trace(Logger.java:52)oggger - [Graph] ====== END SORTED NODES
+17:19:09.846 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "D:\Workspace\Learning\OpenCart\test-output\testng-failed.xml"
+17:19:10.352 [main] TRACE org.testng.log4testng.Logger.trace(Logger.java:52)oggger - [Graph] ADDING NODE BaseClass.setup(java.lang.String,java.lang.String)[pri:0, instance:null] -1422203584
+17:19:10.353 [main] TRACE org.testng.log4testng.Logger.trace(Logger.java:52)oggger - [Graph] ================ SORTING
+17:19:10.363 [main] TRACE org.testng.log4testng.Logger.trace(Logger.java:52)oggger - [Graph] =============== DONE SORTING
+17:19:10.363 [main] TRACE org.testng.log4testng.Logger.trace(Logger.java:52)oggger - [Graph] ====== SORTED NODES
+17:19:10.363 [main] TRACE org.testng.log4testng.Logger.trace(Logger.java:52)oggger - [Graph] ====== END SORTED NODES
+17:19:10.366 [main] TRACE org.testng.log4testng.Logger.trace(Logger.java:52)oggger - [Graph] ADDING NODE BaseClass.tearDown()[pri:0, instance:null] 829687191
+17:19:10.366 [main] TRACE org.testng.log4testng.Logger.trace(Logger.java:52)oggger - [Graph] ================ SORTING
+17:19:10.367 [main] TRACE org.testng.log4testng.Logger.trace(Logger.java:52)oggger - [Graph] =============== DONE SORTING
+17:19:10.367 [main] TRACE org.testng.log4testng.Logger.trace(Logger.java:52)oggger - [Graph] ====== SORTED NODES
+17:19:10.367 [main] TRACE org.testng.log4testng.Logger.trace(Logger.java:52)oggger - [Graph] ====== END SORTED NODES
+17:19:10.378 [main] TRACE org.testng.log4testng.Logger.trace(Logger.java:52)oggger - [Graph] ADDING NODE TC_001_AccountRegistrationTest.Verify_account_registration()[pri:0, instance:testCases.TC_001_AccountRegistrationTest@70f02c32] -1933825747
+17:19:10.379 [main] TRACE org.testng.log4testng.Logger.trace(Logger.java:52)oggger - [Graph] ================ SORTING
+17:19:10.379 [main] TRACE org.testng.log4testng.Logger.trace(Logger.java:52)oggger - [Graph] =============== DONE SORTING
+17:19:10.379 [main] TRACE org.testng.log4testng.Logger.trace(Logger.java:52)oggger - [Graph] ====== SORTED NODES
+17:19:10.379 [main] TRACE org.testng.log4testng.Logger.trace(Logger.java:52)oggger - [Graph] ====== END SORTED NODES
+17:19:10.398 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  D:\Workspace\Learning\OpenCart\test-output\testng-failed.xml
+
+17:19:16.029 [main] INFO  testCases.TC_001_AccountRegistrationTest.Verify_account_registration(TC_001_AccountRegistrationTest.java:19)oggger - ***** Starting TC_001_AccountRegistrationTest *****
+17:19:16.373 [main] INFO  testCases.TC_001_AccountRegistrationTest.Verify_account_registration(TC_001_AccountRegistrationTest.java:26)oggger - Clicked on MyAccount Link...
+17:19:17.157 [main] INFO  testCases.TC_001_AccountRegistrationTest.Verify_account_registration(TC_001_AccountRegistrationTest.java:28)oggger - Clicked on Register Link...
+17:19:17.196 [main] INFO  testCases.TC_001_AccountRegistrationTest.Verify_account_registration(TC_001_AccountRegistrationTest.java:33)oggger - Providing Customer details...
+17:19:20.257 [main] INFO  testCases.TC_001_AccountRegistrationTest.Verify_account_registration(TC_001_AccountRegistrationTest.java:50)oggger - Validating Expected Message...
+17:19:20.326 [main] INFO  testCases.TC_001_AccountRegistrationTest.Verify_account_registration(TC_001_AccountRegistrationTest.java:73)oggger - ***** Finished TC_001_AccountRegistrationTest *****
+17:19:52.334 [main] DEBUG org.testng.log4testng.Logger.debug(Logger.java:82)oggger - suiteXmlPath: "D:\Workspace\Learning\OpenCart\grouping.xml"
+17:19:52.795 [main] TRACE org.testng.log4testng.Logger.trace(Logger.java:52)oggger - [Graph] ADDING NODE BaseClass.setup(java.lang.String,java.lang.String)[pri:0, instance:null] -1422203584
+17:19:52.796 [main] TRACE org.testng.log4testng.Logger.trace(Logger.java:52)oggger - [Graph] ================ SORTING
+17:19:52.802 [main] TRACE org.testng.log4testng.Logger.trace(Logger.java:52)oggger - [Graph] =============== DONE SORTING
+17:19:52.802 [main] TRACE org.testng.log4testng.Logger.trace(Logger.java:52)oggger - [Graph] ====== SORTED NODES
+17:19:52.803 [main] TRACE org.testng.log4testng.Logger.trace(Logger.java:52)oggger - [Graph] ====== END SORTED NODES
+17:19:52.805 [main] TRACE org.testng.log4testng.Logger.trace(Logger.java:52)oggger - [Graph] ADDING NODE BaseClass.tearDown()[pri:0, instance:null] 829687191
+17:19:52.806 [main] TRACE org.testng.log4testng.Logger.trace(Logger.java:52)oggger - [Graph] ================ SORTING
+17:19:52.806 [main] TRACE org.testng.log4testng.Logger.trace(Logger.java:52)oggger - [Graph] =============== DONE SORTING
+17:19:52.806 [main] TRACE org.testng.log4testng.Logger.trace(Logger.java:52)oggger - [Graph] ====== SORTED NODES
+17:19:52.807 [main] TRACE org.testng.log4testng.Logger.trace(Logger.java:52)oggger - [Graph] ====== END SORTED NODES
+17:19:52.815 [main] TRACE org.testng.log4testng.Logger.trace(Logger.java:52)oggger - [Graph] ADDING NODE BaseClass.setup(java.lang.String,java.lang.String)[pri:0, instance:null] -1422203584
+17:19:52.815 [main] TRACE org.testng.log4testng.Logger.trace(Logger.java:52)oggger - [Graph] ================ SORTING
+17:19:52.815 [main] TRACE org.testng.log4testng.Logger.trace(Logger.java:52)oggger - [Graph] =============== DONE SORTING
+17:19:52.815 [main] TRACE org.testng.log4testng.Logger.trace(Logger.java:52)oggger - [Graph] ====== SORTED NODES
+17:19:52.816 [main] TRACE org.testng.log4testng.Logger.trace(Logger.java:52)oggger - [Graph] ====== END SORTED NODES
+17:19:52.819 [main] TRACE org.testng.log4testng.Logger.trace(Logger.java:52)oggger - [Graph] ADDING NODE BaseClass.tearDown()[pri:0, instance:null] 829687191
+17:19:52.819 [main] TRACE org.testng.log4testng.Logger.trace(Logger.java:52)oggger - [Graph] ================ SORTING
+17:19:52.820 [main] TRACE org.testng.log4testng.Logger.trace(Logger.java:52)oggger - [Graph] =============== DONE SORTING
+17:19:52.820 [main] TRACE org.testng.log4testng.Logger.trace(Logger.java:52)oggger - [Graph] ====== SORTED NODES
